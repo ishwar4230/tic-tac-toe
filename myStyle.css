@@ -9,7 +9,7 @@
 }
 
 .start {
-    height: 150px;
+    height: 100px;
     width: 100%;
     margin-top: 5%;
 }
@@ -25,7 +25,7 @@
 
 #st {
     height: 50px;
-    width: 100px;
+    width: 200px;
     font-size: 2rem;
     background-color: blueviolet;
     color: honeydew;
@@ -33,6 +33,14 @@
     border-radius: 20px;
     margin: auto;
     overflow: hidden;
+}
+
+#alert {
+    height: 50px;
+    width: 450px;
+    margin-top: auto;
+    margin-left: 20%;
+    font-size: 200%;
 }
 
 .buttons {
@@ -46,5 +54,6 @@
 }
 
 .butt {
+    background-color: aliceblue;
     font-size: 200%;
 }
