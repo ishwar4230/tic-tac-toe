@@ -37,9 +37,9 @@
 
 #alert {
     height: 50px;
-    width: 450px;
+    /* width: 450px; */
     margin-top: auto;
-    margin-left: 20%;
+    margin-left: 10px;
     font-size: 200%;
 }
 
